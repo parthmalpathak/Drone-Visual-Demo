@@ -6,12 +6,17 @@ This project is a visual demo of a OpenGL implementation of a drone traversing t
 
 ## Installation & Implementation
 
-Step 1: Clone the repository
+**Step 1: Clone the repository**
 ```shell
 git clone https://github.com/parthmalpathak/Drone-Visual-Demo.git
 ```
 
-Step 2: Run relevant file in preferred IDE to visualize
+**Step 2: Change Directory**
+```shell
+cd Drone-Visual-Demo/Code
+```
+
+**Step 3: Run relevant file in preferred IDE to visualize**
 ```shell
 demo_main.sln
 ```
