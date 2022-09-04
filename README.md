@@ -8,7 +8,7 @@ This project is a visual demo of a OpenGL implementation of a drone traversing t
 
 Step 1: Clone the repository
 ```shell
-git clone https://github.com/parthmalpathak/Spaceship-Visual-Demo.git
+git clone https://github.com/parthmalpathak/Drone-Visual-Demo.git
 ```
 
 Step 2: Run relevant file in preferred IDE to visualize
