@@ -1,0 +1,121 @@
+﻿D:\Visual Studio Code 2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ysglfontdata.c will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\ysglfontdata.c, ysglfontdata.c.
+  fssimplewindow.cpp
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\fssimplewindow.cpp(947,19): warning C4018: '<': signed/unsigned mismatch
+  yssimplesound.cpp
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(103,32): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(116,21): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(425,5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(579,22): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(616,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(642,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(666,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(680,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(825,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(832,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(857,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(864,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(1071,16): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(1075,10): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(1075,17): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(1079,10): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(1083,14): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(1183,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(1699,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(1703,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(2429,22): warning C4244: '=': conversion from 'uint64_t' to 'DWORD', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(2737,49): warning C4244: '=': conversion from 'uint64_t' to 'DWORD', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\yssimplesound.cpp(2765,51): warning C4244: 'argument': conversion from 'int64_t' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=DWORD
+          ]
+  demo_main.cpp
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(24,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(65,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(71,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(70,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(230,27): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(230,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(232,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(232,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(234,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(234,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(236,27): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(236,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(238,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(238,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(240,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(240,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(257,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(258,21): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(259,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(260,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(265,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(265,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(266,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(266,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(267,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(267,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(268,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(268,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(273,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(273,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(274,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(274,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(275,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(275,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(276,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(276,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(291,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(291,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(292,27): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(292,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(293,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(293,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(294,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(294,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(295,27): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(295,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(300,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(300,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(301,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(301,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(302,27): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(302,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(303,27): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(303,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(308,27): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(308,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(309,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(309,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(310,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(310,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(311,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(311,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(316,27): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(316,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(317,28): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(317,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(318,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(318,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(319,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(319,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\demo_main.cpp(394,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  yspng.cpp
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\yspng.cpp(992,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  yspngenc.cpp
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\yspngenc.cpp(1675,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\yspngenc.cpp(1679,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\yspngenc.cpp(1959,5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  ysglfontdata.c
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\ysglfontdata.c(33243,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\ysglfontdata.c(33253,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\ysglfontdata.c(33262,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+  ysglfontdata.c
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\ysglfontdata.c(33243,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\ysglfontdata.c(33253,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\ysglfontdata.c(33262,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+  Generating Code...
+Debug\ysglfontdata.obj : warning LNK4042: object specified more than once; extras ignored
+  demo_main.vcxproj -> C:\Users\parth\OneDrive\Desktop\CMU Lecture Files\Engineering Computation\Indivisual Project\demo_main\Debug\demo_main.exe
