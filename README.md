@@ -1,4 +1,4 @@
-# Drone-Visual-Demo
+# Drone Visual Demo
 C++ OpenGL implementation of a drone traversing through space and avoiding objects
 
 ## Overview
