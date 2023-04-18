@@ -28,3 +28,7 @@ demo_main.sln
  
  * **Drone Traversing through space**
  <img src="Result Images/demo_png_1.png" width="600"/>
+ 
+ 
+ ## Copyright
+Author [@Parth Malpathak](https://github.com/parthmalpathak)
